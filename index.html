@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EcoFarm AI | Sustainable Farming</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>🌱 EcoFarm AI</h1>
+    <p>AI-powered sustainable farming for SDG 2 & 13</p>
+  </header>
+
+  <main>
+    <section class="dashboard">
+      <div class="card">
+        <img src="assets/soil-sensor.png" alt="Soil Sensor">
+        <h3>Soil Health Analysis</h3>
+        <p id="soil-status">Analyzing...</p>
+        <button onclick="analyzeSoil()">Run AI Analysis</button>
+      </div>
+
+      <div class="card">
+        <img src="assets/drone-icon.png" alt="Drone">
+        <h3>Crop Disease Detection</h3>
+        <p id="disease-result">Upload an image to check for diseases.</p>
+        <input type="file" id="crop-image" accept="image/*">
+        <button onclick="detectDisease()">Scan with AI</button>
+      </div>
+    </section>
+
+    <section class="results">
+      <h2>AI Recommendations</h2>
+      <div id="ai-output">
+        <!-- Filled by JavaScript -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Aligns with UN SDG 2 (Zero Hunger) & SDG 13 (Climate Action)</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
