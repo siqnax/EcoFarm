@@ -74,7 +74,7 @@ ecofarm-ai/
 - Multi-language support for global farmers 
 
 ### Contact
-Project Maintainer: [Francis] - siqnax@example.com
+Project Maintainer: [Francis] - siqnax@gmail.com
 
 Project Link: https://github.com/siqnax/ecofarm-ai
 
