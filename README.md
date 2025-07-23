@@ -8,7 +8,7 @@ An AI-powered web application that helps small farmers optimize crop yields whil
 
 ![EcoFarm AI Dashboard Screenshot](./assets/screenshot.png)
 
-# Check the live project 👉 [here](https://ai-farmer.netlify.app/)
+# Project Link: 👉 [here](https://ai-farmer.netlify.app/)
 
 ## Features
 
