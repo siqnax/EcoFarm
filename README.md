@@ -8,6 +8,8 @@ An AI-powered web application that helps small farmers optimize crop yields whil
 
 ![EcoFarm AI Dashboard Screenshot](./assets/screenshot.png)
 
+# Check the live project 👉 [here](https://ai-farmer.netlify.app/)
+
 ## Features
 
 - **Soil Health Analysis**: AI-powered soil nutrient monitoring
@@ -74,9 +76,9 @@ ecofarm-ai/
 - Multi-language support for global farmers 
 
 ### Contact
-Project Maintainer: [Francis] - siqnax@gmail.com
+Project Maintainer: [Francis Mwangi] 
 
-Project Link: https://github.com/siqnax/ecofarm-ai
+Project Link: 👉 [here](https://ai-farmer.netlify.app/)
 
 
 
